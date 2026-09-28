@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&text=Carina%20Correjidor&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20Fintech%20%C2%B7%20Banca%20%C2%B7%20IA%20aplicada&fontColor=FFBA00&fontSize=46&fontAlignY=40&descColor=00ACA8&descSize=17&descAlignY=68&animation=fadeIn" width="100%" alt="Carina Correjidor — Software Engineer" />
+<img src="assets/banner.png" width="100%" alt="Carina Correjidor — Software Engineer · .NET · Fintech & Banca · IA aplicada" />
 
 <div align="center">
 
