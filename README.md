@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=15%2B+a%C3%B1os+construyendo+software+financiero;Core+bancario+%C2%B7+APIs+%C2%B7+integraciones+cr%C3%ADticas;Llevando+la+IA+a+sistemas+reales+%F0%9F%A4%96" alt="15+ años construyendo software financiero" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=Construyendo+software+financiero;Core+bancario+%C2%B7+APIs+%C2%B7+integraciones+cr%C3%ADticas;Llevando+la+IA+a+sistemas+reales+%F0%9F%A4%96" alt="Construyendo software financiero" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ## 👋 Hola, soy Carina
 
-Ingeniera en Sistemas. Hace más de 15 años que construyo software para el sector financiero:
+Ingeniera en Sistemas. Construyo software para el sector financiero:
 core bancario, productos crediticios digitales, APIs e integraciones para procesos que no pueden fallar.
 Me muevo cómoda entre lo técnico y lo funcional — **del requerimiento a producción**.
 
