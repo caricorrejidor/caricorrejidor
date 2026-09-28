@@ -56,5 +56,3 @@ bajo **Spec-Driven Development**. Curso la **Maestría en Inteligencia Artificia
 
 > **Core bancario** (COBIS) · **eCheq** e integraciones con COELSA · **normativa BCRA** ·
 > productos crediticios digitales · webhooks e idempotencia · fideicomisos y mercado de capitales
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ACA8,50:FFBA00,100:FF323C&height=90&section=footer" width="100%" alt="" />
