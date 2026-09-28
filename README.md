@@ -1,58 +1,36 @@
-# ✨ Carina Correjidor
+# Hola, soy Carina 👋
 
-**Full Stack Developer** | Fintech & Banca | Buenos Aires 🇦🇷
+**Senior Software Engineer** · .NET · Fintech & Banca · IA aplicada — Buenos Aires 🇦🇷
 
----
+Ingeniera en Sistemas. Hace más de 15 años que construyo software para el sector financiero:
+core bancario, productos crediticios digitales, APIs e integraciones para procesos que no pueden fallar.
+Me muevo cómoda entre lo técnico y lo funcional — del requerimiento a producción.
 
-## 👋 Sobre Mí
+Hoy estoy enfocada en **llevar la IA a sistemas reales**: RAG, agentes, MCP y desarrollo asistido por IA
+bajo **Spec-Driven Development**. Curso la **Maestría en Inteligencia Artificial** en UdeSA.
 
-Desarrollo web de soluciones financieras  para los principales bancos de Argentina — desde APIs REST hasta interfaces Blazor y React. Especializada en **Clean Architecture** y ecosistema **.NET**, con foco en calidad, performance y seguridad.
+## 🔭 En qué ando
 
-Cursando **Maestría en Inteligencia Artificial** (UdeSA), aplicando IA al ciclo completo de desarrollo. 
+- 🤖 Agentes y RAG sobre bases vectoriales, con modelos locales
+- 📐 Spec-Driven Development con Claude Code y Codex
+- 🏗️ Clean Architecture y Vertical Slice Architecture en .NET
 
-Disponible para proyectos y contratos freelance.
+## 🛠️ Stack
 
----
+| | |
+|---|---|
+| **Backend** | .NET · C# · Clean Architecture · Vertical Slice · REST APIs · Node.js · Python |
+| **Frontend** | Blazor · React · TypeScript · Angular |
+| **Datos** | SQL Server · PostgreSQL · Oracle · Sybase · DWH/ETL |
+| **DevOps** | Docker · Kubernetes · OpenShift · GitHub Actions · CI/CD |
+| **IA** | RAG · Vector Databases · LLMs · AI Agents · MCP · Claude Code · Codex · GitHub Copilot |
 
-## 🛠️ Stack Técnico
+## 🏦 Dominio
 
-### Backend
-- **.NET** · **EF Core** · **Clean Architecture**
-- **REST APIs** · Design Patterns
-- **Java** (adicional)
+Core bancario (COBIS) · eCheq e integraciones con COELSA · normativa BCRA ·
+productos crediticios digitales · webhooks e idempotencia · fideicomisos y mercado de capitales
 
-### Frontend
-- **Blazor** · **React** · **TypeScript**
-- **Angular** · **Angular Material**
+## 📫 Dónde encontrarme
 
-### Datos
-- **SQL Server** · **Oracle** · **Sybase**
-- **DWH/ETL** · Data Warehousing
-
-### IA & Herramientas
-- **AI/ML** · **Agent Architecture**
-- **Vector Databases** · **MCP**
-- **GitHub Copilot** · Prompt Engineering
-
----
-
-## 🤝 Disponibilidad
-
-✅ Proyectos Fintech & Banca  
-✅ Consultoría Arquitectónica  
-✅ Freelance & Contratos  
-✅ Mentoring en .NET & Clean Architecture
-
-## 📧 Contacto
-
-
-- **LinkedIn:** [linkedin.com/in/carinacorrejidor](https://linkedin.com/in/carinacorrejidor)
-- **GitHub:** [@caricorrejidor](https://github.com/caricorrejidor)
-
----
-
-<div align="center">
-
-**Construyendo soluciones financieras escalables, seguras y con IA** 🚀
-
-</div>
+- 🌐 [caricorrejidor.github.io](https://caricorrejidor.github.io)
+- 💼 [linkedin.com/in/carinacorrejidor](https://linkedin.com/in/carinacorrejidor)
