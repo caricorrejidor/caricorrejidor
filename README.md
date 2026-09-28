@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:0F766E&height=190&section=header&text=Carina%20Correjidor&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20Fintech%20%26%20Banca%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=58" width="100%" alt="Carina Correjidor — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:0F766E&height=190&section=header&text=Carina%20Correjidor&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20Fintech%20%C2%B7%20Banca%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=58" width="100%" alt="Carina Correjidor — Software Engineer" />
 
 <div align="center">
 
