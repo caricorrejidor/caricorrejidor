@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Software Engineer, Architecture and AI">
+<defs><linearGradient id="code" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B68AF1"/><stop offset=".56" stop-color="#58BDEB"/><stop offset="1" stop-color="#B5D85F"/></linearGradient></defs>
+<rect width="1200" height="300" fill="#101126"/>
+<g fill="none" stroke="url(#code)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"><path d="M260 112 L210 150 L260 188"/><path d="M328 95 L292 205"/><path d="M360 112 L410 150 L360 188"/></g>
+<text x="645" y="126" fill="#F6F5FA" font-size="48" font-weight="500" font-family="Arial, Helvetica, sans-serif">Software Engineer</text>
+<text x="649" y="172" fill="#F6F5FA" font-size="28" font-weight="400" font-family="Arial, Helvetica, sans-serif">Architecture &amp; AI</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#B68AF1"><text x="649" y="225">.NET</text><text x="737" y="225">React</text><text x="839" y="225">Python</text><text x="960" y="225">Docker</text><text x="1072" y="225" fill="#B5D85F">AI</text></g>
+</svg>
