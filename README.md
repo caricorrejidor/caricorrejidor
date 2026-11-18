@@ -10,41 +10,22 @@ I design and build reliable software across backend and frontend, with a focus o
 
 ### What I work on
 
-<table>
-<tr>
-<td width="33%" valign="top">
-  <img src="https://img.shields.io/badge/Architecture-B68AF1?style=flat-square&labelColor=101126" alt="Architecture" />
+**Architecture**  
+Clean Architecture · Domain-Driven Design · CQRS · System design · Maintainability
 
-  **System design**<br/>
-  Clean Architecture<br/>
-  DDD · CQRS<br/>
-  Maintainability
-</td>
-<td width="33%" valign="top">
-  <img src="https://img.shields.io/badge/Engineering-58BDEB?style=flat-square&labelColor=101126" alt="Engineering" />
+**Engineering**  
+Backend & frontend · REST APIs · Integrations · Distributed systems · Testing
 
-  **Building software**<br/>
-  Backend & frontend<br/>
-  REST APIs · Integrations<br/>
-  Distributed systems · Testing
-</td>
-<td width="34%" valign="top">
-  <img src="https://img.shields.io/badge/Applied_AI-B5D85F?style=flat-square&labelColor=101126" alt="Applied AI" />
-
-  **Exploring intelligent systems**<br/>
-  Agents · MCP<br/>
-  RAG · Retrieval<br/>
-  Python · FastAPI
-</td>
-</tr>
-</table>
+**Applied AI**  
+AI agents · MCP · RAG · Retrieval · Python · FastAPI
 
 ### Featured work
 
-| Project | What it shows |
-| :--- | :--- |
-| [**Personal website & blog**](https://github.com/caricorrejidor/caricorrejidor.github.io) | Astro website, content and deployment workflow |
-| [**PayTrace**](https://github.com/caricorrejidor/paytrace-app) | Python API prototype for investigating simulated payment failures using rule-based diagnostics |
+**[Personal website & blog](https://github.com/caricorrejidor/caricorrejidor.github.io)**  
+Personal website built with Astro, including content and a deployment workflow.
+
+**[PayTrace](https://github.com/caricorrejidor/paytrace-app)**  
+Python API prototype for investigating simulated payment failures using rule-based diagnostics.
 
 ### Currently exploring
 
@@ -56,6 +37,4 @@ I design and build reliable software across backend and frontend, with a focus o
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B68AF1?style=flat-square&labelColor=101126&logo=linkedin&logoColor=white)](https://linkedin.com/in/carinacorrejidor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58BDEB?style=flat-square&labelColor=101126&logo=githubpages&logoColor=white)](https://caricorrejidor.github.io)
-
+[LinkedIn](https://linkedin.com/in/carinacorrejidor) · [Portfolio](https://caricorrejidor.github.io)
