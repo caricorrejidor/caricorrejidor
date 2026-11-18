@@ -2,22 +2,42 @@
 
 ## Carina Correjidor
 
-**Senior Software Engineer · Software Architecture · Applied AI**
+**Senior Software Engineer** · Software Architecture · Applied AI
 
-Systems Engineer with experience building reliable applications, APIs and integrations, particularly in financial systems and digital banking. I work across backend and frontend development, with a focus on maintainable architecture and practical solutions from requirements to production.
+Systems Engineer building reliable applications, APIs and integrations across backend and frontend. My experience includes **financial systems and digital banking**, with a focus on maintainable architecture, thoughtful engineering and taking solutions from requirements to production.
 
-### Tech stack
+---
 
-**.NET · C# · React · TypeScript · Angular · Python · SQL Server · PostgreSQL · Docker**
+### 🛠️ Tech stack
 
-REST APIs · Entity Framework · RabbitMQ · SignalR · Git
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,angular,python&theme=dark" alt=".NET, C#, React, TypeScript, Angular, Python" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git&theme=dark" alt="PostgreSQL, Docker, Git" />
+</p>
 
-### Areas of focus
+<sub>SQL Server · Entity Framework · REST APIs · RabbitMQ · SignalR</sub>
 
-- **Architecture & engineering** — Clean Architecture, DDD, CQRS, distributed systems and API design
-- **Financial systems** — digital banking, business-critical integrations and credit products
-- **Applied AI (exploring)** — AI agents, RAG, MCP and Python/FastAPI
+### ✦ What I focus on
+
+| <span style="color:#B68AF1">Architecture</span> | <span style="color:#58BDEB">Engineering</span> | <span style="color:#B5D85F">Applied AI</span> |
+| :--- | :--- | :--- |
+| Clean Architecture · DDD · CQRS | APIs · Integrations · Distributed systems | Agents · RAG · MCP |
+| Maintainability · System design | Backend & frontend · Testing | Python · FastAPI · AI-assisted workflows |
+
+### 🔭 What I'm exploring
+
+- **AI agents & MCP** — connecting language models with useful tools and workflows
+- **RAG & intelligent applications** — exploring retrieval-based approaches
+- **Reusable engineering practices** — clean architecture, testing and spec-driven development
+
+My background in **financial systems and digital banking** includes core banking, digital credit products and business-critical integrations.
+
+---
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/carinacorrejidor) · [Website](https://caricorrejidor.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B68AF1?style=flat-square&logo=linkedin&logoColor=101126)](https://linkedin.com/in/carinacorrejidor)
+[![Website](https://img.shields.io/badge/Website-58BDEB?style=flat-square&logo=githubpages&logoColor=101126)](https://caricorrejidor.github.io)
+
