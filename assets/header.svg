@@ -1,8 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Software Engineer, Architecture and AI">
-<defs><linearGradient id="code" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B68AF1"/><stop offset=".56" stop-color="#58BDEB"/><stop offset="1" stop-color="#B5D85F"/></linearGradient></defs>
-<rect width="1200" height="300" fill="#101126"/>
-<g fill="none" stroke="url(#code)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"><path d="M260 112 L210 150 L260 188"/><path d="M328 95 L292 205"/><path d="M360 112 L410 150 L360 188"/></g>
-<text x="645" y="126" fill="#F6F5FA" font-size="48" font-weight="500" font-family="Arial, Helvetica, sans-serif">Software Engineer</text>
-<text x="649" y="172" fill="#F6F5FA" font-size="28" font-weight="400" font-family="Arial, Helvetica, sans-serif">Architecture &amp; AI</text>
-<g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#B68AF1"><text x="649" y="225">.NET</text><text x="737" y="225">React</text><text x="839" y="225">Python</text><text x="960" y="225">Docker</text><text x="1072" y="225" fill="#B5D85F">AI</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Software Engineer — Architecture &amp; AI">
+  <defs>
+    <linearGradient id="code" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B68AF1"/>
+      <stop offset="54%" stop-color="#58BDEB"/>
+      <stop offset="100%" stop-color="#B5D85F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#101126"/>
+  <!-- Small signature symbol, deliberately set away from the main content -->
+  <g fill="none" stroke="url(#code)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155 107 L130 125 L155 143"/>
+    <path d="M186 102 L169 148"/>
+    <path d="M199 107 L224 125 L199 143"/>
+  </g>
+  <!-- Calm, readable type with strong but not heavy hierarchy -->
+  <g fill="#F6F5FA" font-family="Arial, Helvetica, sans-serif">
+    <text x="618" y="107" font-size="44" font-weight="400" letter-spacing=".1">Software Engineer</text>
+    <text x="783" y="147" font-size="25" font-weight="400" letter-spacing="1.3">Architecture &amp; AI</text>
+  </g>
+  <!-- Compact, optically balanced technology row -->
+  <g transform="translate(638 208)">
+    <g stroke="#B68AF1" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="-29" y="-15" width="58" height="30" rx="6"/>
+      <path d="M-2 -15 V15" opacity="0"/>
+    </g>
+    <text x="0" y="6" fill="#B68AF1" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="18" text-anchor="middle">.NET</text>
+  </g>
+  <g transform="translate(737 208)" fill="none" stroke="#58BDEB" stroke-width="2.4">
+    <ellipse rx="24" ry="9" transform="rotate(0)"/>
+    <ellipse rx="24" ry="9" transform="rotate(60)"/>
+    <ellipse rx="24" ry="9" transform="rotate(120)"/>
+    <circle r="4" fill="#58BDEB" stroke="none"/>
+  </g>
+  <g transform="translate(836 208)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path stroke="#58BDEB" d="M-21 0 V-11 Q-21 -20 -10 -20 H5 Q13 -20 13 -11 V-4 H-5 Q-13 -4 -13 6 V10"/>
+    <circle cx="-1" cy="-14" r="2.2" fill="#58BDEB" stroke="none"/>
+    <path stroke="#E9C64B" d="M21 0 V11 Q21 20 10 20 H-5 Q-13 20 -13 11 V4 H5 Q13 4 13 -6 V-10"/>
+    <circle cx="1" cy="14" r="2.2" fill="#E9C64B" stroke="none"/>
+  </g>
+  <g transform="translate(935 208)" stroke="#B68AF1" stroke-width="2.5" fill="none">
+    <ellipse cx="0" cy="-12" rx="21" ry="7"/>
+    <path d="M-21 -12 V13 C-21 23 21 23 21 13 V-12"/>
+    <path d="M-21 0 C-21 10 21 10 21 0 M-21 12 C-21 22 21 22 21 12"/>
+  </g>
+  <g transform="translate(1034 208)" fill="none" stroke="#58BDEB" stroke-width="2.6" stroke-linejoin="round">
+    <path d="M-25 1 H22 C18 20 3 23 -12 18 C-19 15 -23 9 -25 1 Z"/>
+    <path d="M-15 -7 h8 v8 h-8z M-5 -7 h8 v8 h-8z M5 -7 h8 v8 H5z M-5 -16 h8 v8 h-8z M5 -16 h8 v8 H5z"/>
+    <path d="M17 -2 q5 -12 12 -10 q-2 8 -10 12"/>
+  </g>
+  <g transform="translate(1123 208)" stroke="#B5D85F" stroke-width="2.6" fill="none" stroke-linecap="round">
+    <rect x="-19" y="-19" width="38" height="38" rx="5"/>
+    <path d="M-25 -11 h6 M-25 0 h6 M-25 11 h6 M19 -11 h6 M19 0 h6 M19 11 h6 M-11 -25 v6 M0 -25 v6 M11 -25 v6 M-11 19 v6 M0 19 v6 M11 19 v6"/>
+    <text x="0" y="7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" text-anchor="middle" stroke="none" fill="#B5D85F">AI</text>
+  </g>
 </svg>
