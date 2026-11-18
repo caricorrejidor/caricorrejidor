@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Software Engineer — Architecture and AI">
 <rect width="1200" height="270" fill="#101126"/>
-<!-- Crisp, centred typographic identity: no left decorative symbol -->
+<!-- Code mark in the banner palette -->
+<g transform="translate(224 93)" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-15 -13 L-33 0 L-15 13" stroke="#B68AF1"/>
+<path d="M7 -17 L-7 17" stroke="#58BDEB"/>
+<path d="M15 -13 L33 0 L15 13" stroke="#B5D85F"/>
+</g>
 <g fill="#F6F5FA" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
 <text x="600" y="84" font-size="49" font-weight="400" letter-spacing=".3">Software Engineer</text>
 <text x="600" y="124" font-size="26" font-weight="400" letter-spacing="1.4">Architecture &amp; AI</text>
