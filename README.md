@@ -8,17 +8,6 @@ Systems Engineer building reliable applications, APIs and integrations across ba
 
 ---
 
-### 🛠️ Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,angular,python&theme=dark" alt=".NET, C#, React, TypeScript, Angular, Python" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git&theme=dark" alt="PostgreSQL, Docker, Git" />
-</p>
-
-<sub>SQL Server · Entity Framework · REST APIs · RabbitMQ · SignalR</sub>
-
 ### ✦ What I focus on
 
 | <span style="color:#B68AF1">Architecture</span> | <span style="color:#58BDEB">Engineering</span> | <span style="color:#B5D85F">Applied AI</span> |
