@@ -1,32 +1,61 @@
-<img src="assets/header.svg" width="100%" alt="Software Engineer — Architecture & AI" />
+<img src="assets/header.svg" alt="Software Engineer — Architecture & AI" width="100%" />
 
 ## Carina Correjidor
 
 **Senior Software Engineer** · Software Architecture · Applied AI
 
-Systems Engineer building reliable applications, APIs and integrations across backend and frontend. My experience includes **financial systems and digital banking**, with a focus on maintainable architecture, thoughtful engineering and taking solutions from requirements to production.
+I design and build reliable software across backend and frontend, with a focus on maintainable architecture, APIs and integrations. My experience includes **financial systems and digital banking**, and I'm exploring how to apply AI to real engineering workflows.
 
 ---
 
-### ✦ What I focus on
+### What I work on
 
-| <span style="color:#B68AF1">Architecture</span> | <span style="color:#58BDEB">Engineering</span> | <span style="color:#B5D85F">Applied AI</span> |
-| :--- | :--- | :--- |
-| Clean Architecture · DDD · CQRS | APIs · Integrations · Distributed systems | Agents · RAG · MCP |
-| Maintainability · System design | Backend & frontend · Testing | Python · FastAPI · AI-assisted workflows |
+<table>
+<tr>
+<td width="33%" valign="top">
+  <img src="https://img.shields.io/badge/Architecture-B68AF1?style=flat-square&labelColor=101126" alt="Architecture" />
 
-### 🔭 What I'm exploring
+  **System design**<br/>
+  Clean Architecture<br/>
+  DDD · CQRS<br/>
+  Maintainability
+</td>
+<td width="33%" valign="top">
+  <img src="https://img.shields.io/badge/Engineering-58BDEB?style=flat-square&labelColor=101126" alt="Engineering" />
 
-- **AI agents & MCP** — connecting language models with useful tools and workflows
-- **RAG & intelligent applications** — exploring retrieval-based approaches
-- **Reusable engineering practices** — clean architecture, testing and spec-driven development
+  **Building software**<br/>
+  Backend & frontend<br/>
+  REST APIs · Integrations<br/>
+  Distributed systems · Testing
+</td>
+<td width="34%" valign="top">
+  <img src="https://img.shields.io/badge/Applied_AI-B5D85F?style=flat-square&labelColor=101126" alt="Applied AI" />
 
-My background in **financial systems and digital banking** includes core banking, digital credit products and business-critical integrations.
+  **Exploring intelligent systems**<br/>
+  Agents · MCP<br/>
+  RAG · Retrieval<br/>
+  Python · FastAPI
+</td>
+</tr>
+</table>
+
+### Featured work
+
+| Project | What it shows |
+| :--- | :--- |
+| [**Personal website & blog**](https://github.com/caricorrejidor/caricorrejidor.github.io) | Astro website, content and deployment workflow |
+| [**PayTrace**](https://github.com/caricorrejidor/paytrace-app) | Python API prototype for investigating simulated payment failures using rule-based diagnostics |
+
+### Currently exploring
+
+- **AI agents & MCP** — connecting models to practical tools and workflows
+- **RAG** — grounding intelligent applications in retrieved information
+- **Reusable engineering** — architecture patterns, tests and spec-driven workflows
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B68AF1?style=flat-square&logo=linkedin&logoColor=101126)](https://linkedin.com/in/carinacorrejidor)
-[![Website](https://img.shields.io/badge/Website-58BDEB?style=flat-square&logo=githubpages&logoColor=101126)](https://caricorrejidor.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B68AF1?style=flat-square&labelColor=101126&logo=linkedin&logoColor=white)](https://linkedin.com/in/carinacorrejidor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58BDEB?style=flat-square&labelColor=101126&logo=githubpages&logoColor=white)](https://caricorrejidor.github.io)
 
